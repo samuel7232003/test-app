@@ -3,6 +3,7 @@
     width: 540px;
     border: 1px solid #000;
     padding: 20px;
+    margin: 0 auto;
 }
 
 .App .title{
